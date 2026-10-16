@@ -1,0 +1,3 @@
+ESPACIO - soltar bombas
+FLECHAS - movimiento protagonista
+ESCAPE - pausa
